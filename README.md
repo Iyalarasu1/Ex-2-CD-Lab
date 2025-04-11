@@ -1,6 +1,8 @@
+
 # Ex. No : 2	
 # GENERATION OF LEXICAL TOKENS LEX/FLEX TOOL
 ## Register Number :212223040069
+
 ## Date : 10-04-2025
 
 ## AIM   
@@ -24,7 +26,7 @@ To write a lex program to implement lexical analyzer to recognize a few patterns
 7.	Compile that file with C compiler and verify the output.
 
 ## PROGRAM
-
+```
 #include <stdio.h>
 #include <ctype.h>
 #include <string.h>
@@ -68,10 +70,11 @@ int main() {
     return 0;
 }
 
-
+```
 
 ## OUTPUT 
-![image](https://github.com/user-attachments/assets/4afead9e-2862-46cc-a0bb-47bcc91cbdbd)
+![Screenshot 2025-04-10 052403](https://github.com/user-attachments/assets/c91ce3f7-e25a-4bda-a218-01b101a78fe7)
+
 
 
 ## RESULT
